@@ -1,0 +1,19 @@
+
+NinjaCloud.png
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+flyBody
+  rotate: false
+  xy: 2, 2
+  size: 32, 32
+  orig: 32, 32
+  offset: 0, 0
+  index: -1
+flyFall
+  rotate: false
+  xy: 36, 2
+  size: 32, 32
+  orig: 32, 32
+  offset: 0, 0
+  index: -1
