@@ -40,7 +40,7 @@ Thumbs.db
 
 # XFCE saves #
 ##############
-.*~
+*~
 
 *.class
 
